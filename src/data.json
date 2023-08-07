@@ -1,0 +1,90 @@
+[
+    {
+    "Id":1,
+    "sale": "",
+    "itemType": "Fancy Product",
+    "starCount": 0,
+    "price": {
+    "oldPrice": "",
+    "newPrice": "$40.00 - $80.00"
+    },
+    "buttonName": "View options"
+    },
+    {
+    "Id":2,
+    "sale": "sale",
+    "itemType": "Special Item",
+    "starCount": 5,
+    "price": {
+    "oldPrice": "$20.00",
+    "newPrice": "$18.00"
+    },
+    "buttonName": "Add to cart"
+    },
+    {
+    "Id":3,
+    "sale": "sale",
+    "itemType": "Sale Item",
+    "starCount": 0,
+    "price": {
+    "oldPrice": "$50.00",
+    "newPrice": "$25.00"
+    },
+    "buttonName": "Add to cart"
+    },
+    {
+    "Id":4,
+    "sale": "",
+    "itemType": "Popular Item",
+    "starCount": 5,
+    "price": {
+    "oldPrice": "",
+    "newPrice": "$40.00"
+    },
+    "buttonName": "Add to cart"
+    },
+    {
+    "Id":5,
+    "sale": "sale",
+    "itemType": "Sale Item",
+    "starCount": 0,
+    "price": {
+    "oldPrice": "$50.00",
+    "newPrice": "$25.00"
+    },
+    "buttonName": "Add to cart"
+    },
+    {
+    "Id":6,
+    "sale": "",
+    "itemType": "Fancy Product",
+    "starCount": 0,
+    "price": {
+    "oldPrice": "",
+    "newPrice": "$120.00 - $280.00"
+    },
+    "buttonName": "View options"
+    },
+    {
+    "Id":7,
+    "sale": "sale",
+    "itemType": "Special Item",
+    "starCount": 5,
+    "price": {
+    "oldPrice": "$20.00",
+    "newPrice": "$18.00"
+    },
+    "buttonName": "Add to cart"
+    },
+    {
+    "Id":8,
+    "sale": "",
+    "itemType": "Popular Item",
+    "starCount": 5,
+    "price": {
+    "oldPrice": "",
+    "newPrice": "$40.00"
+    },
+    "buttonName": "Add to cart"
+    }
+    ]
